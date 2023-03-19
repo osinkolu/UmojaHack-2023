@@ -10,11 +10,11 @@ Cryptojacking is a type of cyberattack that uses malicious scripts similar to th
 
 The objective of this challenge is to classify network activity from various websites as either cryptojacking or not, based on features related to both network-based and host-based data.
 
-# Competition Details
+### Competition Details
 
 Link to competition: https://zindi.africa/competitions/umojahack-africa-2023-intermediate-challenge/leaderboard
 
-# Connect on Linkedin
+### Connect on Linkedin
 
 * Okewunmi Paul - https://www.linkedin.com/in/paul-okewunmi-a24526171/
 
